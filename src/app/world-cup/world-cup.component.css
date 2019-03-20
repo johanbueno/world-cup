@@ -1,0 +1,38 @@
+img {
+    width: 70px;
+    height: 46px;
+    margin: 2px;
+}
+.container {
+background-color: #0f4583;
+width: 100%;
+color: azure;
+font-family: cursive;
+vertical-align: top;
+}
+
+.sencondGroup {
+    align-content: right;
+    display: inline-grid;
+
+}
+.firstGroup {
+    display: inline-block;
+    align-content: flex-start;
+}
+
+
+
+#cup{
+    vertical-align: center;
+}
+input {
+    width: 35px;
+}
+.match {
+        border-right: 100px solid ;
+        border-top: 10px solid;
+        border-bottom: 10px solid;
+        margin-left: 60px;
+        margin-bottom: 60px;
+}
